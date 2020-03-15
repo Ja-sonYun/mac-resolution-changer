@@ -10,4 +10,3 @@ simple resolution changer script for better touch tool
 
 ```
 $ sh ~/SCRIPT_PATH/changeRES.sh
-
