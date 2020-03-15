@@ -24,5 +24,5 @@ $ sh ~/SCRIPT_PATH/changeRES.sh
   # resolution changed.
 $ sh ~/SCRIPT_PATH/changeRES.sh 
   # back to 1680x1050
-  #if you execute again, it will be changed to 1920x1280
+  #if you execute this script again, it will be changed to 1920x1280
 ```
