@@ -1,6 +1,5 @@
 ## mac-resolution-changer
 simple resolution changer script for better touch tool
-You can switch resolution
 
 ### requirement
 
