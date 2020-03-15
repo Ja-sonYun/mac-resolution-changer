@@ -9,7 +9,7 @@ simple resolution changer script for better touch tool
 
 ```sh
 $ displayplacer list 
-  # choose modes from here and modify the edit this script
+  # choose modes from here and edit this repository's script
   #   Resolutions for rotation 90:
   #   mode 0: res:1080x1920 hz:60 color_depth:4 scaling:on
   #   mode 1: res:1080x1920 hz:60 color_depth:8 scaling:on <-- current mode
