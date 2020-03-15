@@ -7,7 +7,7 @@ simple resolution changer script for better touch tool
 
 ### how to use
 
-```
+```sh
 $ displayplacer list 
   # choose modes from here and modify the edit this script
   #   Resolutions for rotation 90:
