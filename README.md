@@ -16,7 +16,8 @@ $ displayplacer list
   #   mode 2: res:1080x1920 hz:30 color_depth:4 scaling:on
   #   mode (this): res:1080x1920 hz:30 color_depth:8 scaling:on
   #   ...
-  #  
+  # 
+  # In this repository's script,
   # change (here) to mode (this) -> { $displayplacer "id:"$GetscreenID"mode:(here) }
 
 $ sh ~/SCRIPT_PATH/changeRES.sh 
